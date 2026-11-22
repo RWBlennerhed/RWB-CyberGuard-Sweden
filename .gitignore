@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Lokala programdata och rapporter
+history.json
+webbadresser.json
+*.json.tmp
+Historik/
+Rapporter/
+Excelrapporter/
+Sakerhetskopior/
+DemoLoggfiler/
+Test_Installation_Alpha6/
+
+# Redigeringsfiler
+*.bak
+*.old
+*~
+
+# Systemfiler
+.DS_Store
+Thumbs.db
